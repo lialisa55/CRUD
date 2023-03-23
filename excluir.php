@@ -6,10 +6,10 @@
 	<table>
 	  <tr>
 	   <td> Digite o codigo do usuário: </td>
-	   <td><input size="15" name="codigo"></td>
+	   <td><input size="5" name="codigo"></td>
 	  </tr>	
 	  <tr>
-	   <td colspan=2><input type="SUBMIT"  value="Alterar"></td>
+	   <td colspan=2><input type="SUBMIT"  value="Excluir"></td>
 	  </tr>
 	  </table>
 	  </fieldset>
